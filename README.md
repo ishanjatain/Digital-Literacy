@@ -7,7 +7,7 @@
 
 ##  Student Information
 
-  * **Name:** ISAHN
+  * **Name:** ISHAN
   * **Registration Number:** 25BAC10029
   * **Branch:** B.TechELECTRONICS AND COMMUNICATION SPEC(AI&ML)
   * **Year:** First Year (2025-2029)
