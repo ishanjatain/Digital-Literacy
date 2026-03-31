@@ -9,7 +9,7 @@
 
   * **Name:** ISHAN
   * **Registration Number:** 25BAC10029
-  * **Branch:** B.TechELECTRONICS AND COMMUNICATION SPEC(AI&ML)
+  * **Branch:** B.Tech ELECTRONICS AND COMMUNICATION SPEC(AI&ML)
   * **Year:** First Year (2025-2029)
   * **Institution:** VIT Bhopal University
 
